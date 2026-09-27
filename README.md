@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="YOUR_SNOOPY_BANNER_URL" width="100%">
-
 <br><br>
 
 # chloe galope morano
@@ -104,8 +102,6 @@ i'm still learning, still making mistakes, and still figuring things out one lin
 ## tools & technologies
 
 <br>
-
-<img src="https://skillicons.dev/icons?i=c,html,css,js,mysql,git,github" />
 
 <br><br>
 
