@@ -135,8 +135,6 @@ working with subnetting, routing, and Cisco Packet Tracer.
 
 <td width="50%" align="center">
 
-<img src="YOUR_SECOND_SNOOPY_IMAGE_URL" width="220">
-
 <br><br>
 
 <sub>one project at a time.</sub>
